@@ -1067,6 +1067,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Rocket Typist](https://witt-software.com/rockettypist/) - Expand typed abbreviations. ![Dollar][mon]
 - [TeaCode](https://www.apptorium.com/teacode) - Don't Repeat Yourself. ![Dollar][mon]
 - [TextExpander](https://textexpander.com) - Expand keystrokes into frequently-used text and pictures. ![Dollar][mon]
+- [Espanso](https://espanso.org/) - Supercharge your typing experience. ![Open Source][oss] ![Free][free]
 
 ### Web Browsers
 
